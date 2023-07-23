@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemanth Reddy Allugunti</h1>
 <h3 align="center">A Machine Learning enthusiast from India</h3>
 
-- 🔭 I’m currently working on **"Concurso" is an Online quiz game.**
+- 🔭 I’m currently working on **"Concurso" - which is an Online quiz game.**
 
 - 🌱 I’m currently learning **Object Detection Using YOLO v3 Deep Learning**
 
