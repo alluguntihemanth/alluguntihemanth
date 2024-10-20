@@ -6,7 +6,7 @@
 
 <!-- About Section -->
 <p align="center">
-  🔭 I’m currently working on <strong>Project Matthew</strong> – An AI-driven adaptive conversation agent.<br>
+  🔭 I’m currently working on <strong>Project Matthew</strong> – An AI-driven adaptive conversational agent.<br>
   🌱 I’m learning <strong>Quantum CNNs for Face Recognition</strong> and conducting a comparative study with traditional CNNs.<br>
   💬 Ask me about <strong>AI, Machine Learning, Web Development (Django, Node.js), Python, and Biometric Integration</strong>.<br>
   📫 Reach me at <strong>ha1074@srmist.edu.in</strong>
