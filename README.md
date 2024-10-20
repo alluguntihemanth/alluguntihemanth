@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemanth Reddy Allugunti</h1>
 <h3 align="center">AI Researcher | Final Year BTech AI | Machine Learning and Quantum Enthusiast</h3>
 
-- 🔭 I’m currently working on **Project Matthew** – An AI-driven adaptive conversation agent using biometric feedback from wearable devices.  
+- 🔭 I’m currently working on **Project Matthew** – An AI-driven adaptive conversation agent 
 - 🌱 I’m learning **Quantum CNNs for Face Recognition** and conducting a comparative study with traditional CNNs.  
 - 💬 Ask me about **AI, Machine Learning, Web Development (Django, Node.js), Python, and Biometric Integration**.  
 - 📫 Reach me at **ha1074@srmist.edu.in**  
