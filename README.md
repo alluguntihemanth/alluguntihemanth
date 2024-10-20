@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center" style="color:#1E90FF;">Hi 👋, I'm Hemanth Reddy Allugunti</h1>
 <h3 align="center" style="color:#ADD8E6;">
-  AI Researcher | Final Year BTech AI | Machine Learning and Quantum Enthusiast
+  | Final Year BTech AI | AI Researcher | Machine Learning and Quantum Enthusiast
 </h3>
 
 <!-- About Section -->
