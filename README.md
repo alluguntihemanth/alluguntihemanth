@@ -15,7 +15,7 @@
 <!-- Connect with Me Section -->
 <h3 align="left" style="color:#1E90FF;">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/hemanth-reddy-allugunti-883b36216" target="_blank">
+  <a href="www.linkedin.com/in/hemanth-reddy-allugunti-883b36216\" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
 </p>
