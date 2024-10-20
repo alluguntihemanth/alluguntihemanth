@@ -1,11 +1,11 @@
 <!-- Header Section -->
 <h1 align="center" style="color:#1E90FF;">Hi 👋, I'm Hemanth Reddy Allugunti</h1>
-<h3 align="center" style="color:#A9A9A9;">
+<h3 align="center" style="color:#ADD8E6;">
   AI Researcher | Final Year BTech AI | Machine Learning and Quantum Enthusiast
 </h3>
 
 <!-- About Section -->
-<p align="center">
+<p align="center" style="color:#4682B4;">
   🔭 I’m currently working on <strong>Project Matthew</strong> – An AI-driven adaptive conversational agent.<br>
   🌱 I’m learning <strong>Quantum CNNs for Face Recognition</strong> and conducting a comparative study with traditional CNNs.<br>
   💬 Ask me about <strong>AI, Machine Learning, Web Development (Django, Node.js), Python, and Biometric Integration</strong>.<br>
@@ -63,6 +63,5 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alluguntihemanth&theme=radical" alt="GitHub Streak" />
 </p>
-
 
 
