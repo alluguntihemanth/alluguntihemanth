@@ -18,14 +18,7 @@
   <a href="https://www.linkedin.com/in/hemanth-allugunti-883b36216/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
-  <a href="https://www.hackerrank.com/hemanthallugunti" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white" alt="HackerRank" height="30" />
-  </a>
-  <a href="https://www.leetcode.com/alluguntihemanth" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" height="30" />
-  </a>
-  <a href="https://discord.gg/959046944129425428" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" height="30" />
+
   </a>
 </p>
 
