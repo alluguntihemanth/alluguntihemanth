@@ -1,80 +1,111 @@
-<!-- Header Section -->
-<h1 align="center" style="color:#66FCF1;">Hi 👋, I'm Hemanth Reddy Allugunti</h1>
-<h3 align="center" style="color:#C5C6C7;">
-  AI Researcher | Final Year BTech AI | Machine Learning and Quantum Enthusiast
-</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername">
 
-<!-- Animated Wave -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+[Your Name]....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/your-linkedin/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/yourusername" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/youruserID/your-username" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/yourusername/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wavy.svg" alt="Wave Graphic" width="100%" />
+  Hi, I'm [Your Name], [Your Title/Role] from [Your Location]
+  <br>
+  <br>
+  🔬 I'm currently studying for my [Your Degree/Program]
+  <br>
+  🎓 I graduated from [Your University/Program]
+  <br>
+  💻 I love writing code and learning about new technologies
+  <br>
+  📚 I’m currently learning [Current Learning Focus]
+  <br>
+  💬 Ask me anything from <a href="https://github.com/yourusername/your-repo/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a>
 </p>
 
-<!-- About Section -->
-<p align="center" style="font-size: 1.2rem;">
-  🔭 I’m currently working on <strong>Project Matthew</strong> – An AI-driven adaptive conversational agent.<br>
-  🌱 I’m learning <strong>Quantum CNNs for Face Recognition</strong> and conducting a comparative study with traditional CNNs.<br>
-  💬 Ask me about <strong>AI, Machine Learning, Web Development (Django, Node.js), Python, and Biometric Integration</strong>.<br>
-  📫 Reach me at <strong>ha1074@srmist.edu.in</strong>
-</p>
-
-<!-- Connect with Me Section -->
-<h3 align="center" style="color:#66FCF1;">Connect with me:</h3>
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemanth-allugunti-883b36216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="https://www.hackerrank.com/hemanthallugunti" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white" alt="HackerRank" height="30"/>
-  </a>
-  <a href="https://www.leetcode.com/alluguntihemanth" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" height="30"/>
-  </a>
-  <a href="https://discord.gg/959046944129425428" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" height="30"/>
-  </a>
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <!-- Add other languages, frameworks, and tools as needed -->
+</p>
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=yourusername&theme=react&border=61dafb&hide_border=true" alt="yourusername" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<!-- Languages and Tools Section -->
-<h3 align="center" style="color:#66FCF1;">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-</p>
+<hr>
 
-<!-- GitHub Stats Section -->
-<h3 align="center" style="color:#66FCF1;">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alluguntihemanth&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="195"/>
-</p>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/yourusername/Repo1" title="Repo 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Repo1&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/yourusername/Repo2" title="Repo 2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Repo2&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/yourusername/Repo3" title="Repo 3"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Repo3&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/yourusername/Repo4" title="Repo 4"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Repo4&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/yourusername/Repo5" title="Repo 5"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Repo5&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/yourusername/Repo6" title="Repo 6"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Repo6&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alluguntihemanth&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="195"/>
-</p>
+<h4 align="center">
+  <a href="https://github.com/yourusername?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alluguntihemanth&theme=radical" alt="GitHub Streak" height="195"/>
-</p>
+![Metrics](https://metrics.lecoq.io/yourusername?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
-<!-- Animated Wave Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wavy.svg" alt="Wave Graphic" width="100%" />
-</p>
+<!--
+**yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+Notes: If you want to use this readme, please star it first. If you can't align your repositories like this, please change your repository descriptions to shorter than now. Maybe 4 or 5 words will be good.
+-->
+
