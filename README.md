@@ -22,7 +22,7 @@
 
 <!-- Languages and Tools Section -->
 <h3 align="left" style="color:#1E90FF;">Languages and Tools:</h3>
-<p align="left">
+<p align="right">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -60,7 +60,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=alluguntihemanth&show_icons=true&locale=en&theme=blueberry&hide_border=true" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-streak-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alluguntihemanth&theme=blueberry&hide_border=true" alt="GitHub Streak" />
     </a>
   </div>
@@ -74,5 +74,4 @@
 </p>
 
 <hr>
-
 
