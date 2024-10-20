@@ -58,18 +58,19 @@
 <p align="center">
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alluguntihemanth&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+      <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alluguntihemanth&theme=blueberry&hide_border=true" alt="GitHub Streak" />
     </a>
   </div>
+  <br>
   <div align="right">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alluguntihemanth&theme=blueberry&show_icons=true&hide_border=true&layout=compact" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br>
+  <br>
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=alluguntihemanth&show_icons=true&locale=en&theme=blueberry&hide_border=true" alt="GitHub Stats" />
+      <img width=390 src="https://github-readme-stats.vercel.app/api?username=alluguntihemanth&show_icons=true&locale=en&theme=blueberry&hide_border=true" alt="GitHub Stats" />
     </a>
   </div>
 </p>
