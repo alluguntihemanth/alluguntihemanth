@@ -55,13 +55,14 @@
 <!-- GitHub Stats Section -->
 <h3 align="left" style="color:#1E90FF;">GitHub Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alluguntihemanth&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alluguntihemanth&show_icons=true&locale=en&theme=blueberry" alt="GitHub Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alluguntihemanth&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alluguntihemanth&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alluguntihemanth&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alluguntihemanth&theme=blueberry" alt="GitHub Streak" />
 </p>
+
 
 
