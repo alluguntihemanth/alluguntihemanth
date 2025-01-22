@@ -9,7 +9,7 @@
   🔭 I’m currently working on <strong>Project Matthew</strong> – An AI-driven adaptive conversational agent.<br>
   🌱 I’m learning <strong>Quantum CNNs for Face Recognition</strong> and conducting a comparative study with traditional CNNs.<br>
   💬 Ask me about <strong>AI, Machine Learning, Web Development (Django, Node.js), Python</strong>.<br>
-  📫 Reach me at <strong>ha1074@srmist.edu.in</strong>
+  📫 Reach me at <strong>hemanthallugunti@gmail.com</strong>
 </p>
 
 <!-- Connect with Me Section -->
@@ -60,9 +60,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=alluguntihemanth&show_icons=true&locale=en&theme=blueberry&hide_border=true" alt="GitHub Stats" />
     </a>
-     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-       <img height=165 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=alluguntihemanth&theme=blueberry&hide_border=false" alt="GitHub Streak"/>
-     </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img height=165 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=alluguntihemanth&theme=blueberry&hide_border=false" alt="GitHub Streak"/>
+    </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align="center">
