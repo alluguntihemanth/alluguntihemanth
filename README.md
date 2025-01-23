@@ -26,187 +26,62 @@
 ---
 
 <!-- Languages and Tools Section -->
-
 <h3 align="left" style="color:#1E90FF;">🛠️ Languages and Tools:</h3>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 30px; text-align: center; margin-bottom: 30px;">
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+  </a>
+   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+   </a>
 
-  <!-- Python -->
-  <div class="tool-item">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" class="tool-icon"/>
-      <p class="tool-name">Python</p>
-    </a>
-  </div>
-
-  <!-- TensorFlow -->
-  <div class="tool-item">
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" class="tool-icon"/>
-      <p class="tool-name">TensorFlow</p>
-    </a>
-  </div>
-
-  <!-- PyTorch -->
-  <div class="tool-item">
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" class="tool-icon"/>
-      <p class="tool-name">PyTorch</p>
-    </a>
-  </div>
-
-  <!-- Keras -->
-  <div class="tool-item">
-    <a href="https://keras.io/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" class="tool-icon"/>
-      <p class="tool-name">Keras</p>
-    </a>
-  </div>
-
-  <!-- scikit-learn -->
-  <div class="tool-item">
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" class="tool-icon"/>
-      <p class="tool-name">scikit-learn</p>
-    </a>
-  </div>
-
-  <!-- NumPy -->
-  <div class="tool-item">
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" class="tool-icon"/>
-      <p class="tool-name">NumPy</p>
-    </a>
-  </div>
-
-  <!-- Matplotlib -->
-  <div class="tool-item">
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" class="tool-icon"/>
-      <p class="tool-name">Matplotlib</p>
-    </a>
-  </div>
-
-  <!-- Pandas -->
-  <div class="tool-item">
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" class="tool-icon"/>
-      <p class="tool-name">Pandas</p>
-    </a>
-  </div>
-
-  <!-- OpenCV -->
-  <div class="tool-item">
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" class="tool-icon"/>
-      <p class="tool-name">OpenCV</p>
-    </a>
-  </div>
-
-  <!-- C -->
-  <div class="tool-item">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" class="tool-icon"/>
-      <p class="tool-name">C</p>
-    </a>
-  </div>
-
-  <!-- C++ -->
-  <div class="tool-item">
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" class="tool-icon"/>
-      <p class="tool-name">C++</p>
-    </a>
-  </div>
-
-  <!-- HTML5 -->
-  <div class="tool-item">
-    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" class="tool-icon"/>
-      <p class="tool-name">HTML5</p>
-    </a>
-  </div>
-
-  <!-- Git -->
-  <div class="tool-item">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" class="tool-icon"/>
-      <p class="tool-name">Git</p>
-    </a>
-  </div>
-
-  <!-- Visual Studio Code -->
-  <div class="tool-item">
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" class="tool-icon"/>
-      <p class="tool-name">VS Code</p>
-    </a>
-  </div>
-
-  <!-- GitHub -->
-  <div class="tool-item">
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" class="tool-icon"/>
-      <p class="tool-name">GitHub</p>
-    </a>
-  </div>
-
-  <!-- Jupyter -->
-  <div class="tool-item">
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" class="tool-icon"/>
-      <p class="tool-name">Jupyter</p>
-    </a>
-  </div>
-
-  <!-- Linux -->
-  <div class="tool-item">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" class="tool-icon"/>
-      <p class="tool-name">Linux</p>
-    </a>
-  </div>
-</div>
-
-<!-- Hover effect -->
-<style>
-  .tool-item {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    padding: 15px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .tool-item:hover {
-    transform: translateY(-10px); /* Move slightly up on hover */
-    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
-  }
-
-  .tool-icon {
-    width: 50px;
-    height: 50px;
-    transition: transform 0.3s ease;
-  }
-
-  .tool-name {
-    margin-top: 10px;
-    font-size: 14px;
-    font-weight: bold;
-  }
-
-  .tool-item:hover .tool-icon {
-    transform: scale(1.05); /* Slightly enlarge the icon */
-  }
-
-  a {
-    color: inherit;
-    text-decoration: none;
-  }
-</style>
-
-
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+</p>
 
 
 
