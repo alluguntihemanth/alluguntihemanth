@@ -91,7 +91,10 @@
 <h3 align="left" style="color:#1E90FF;">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alluguntihemanth&theme=radical&hide_border=false&show_icons=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alluguntihemanth&theme=radical&hide_border=false" alt="GitHub Streak" width="49%" />
+    <!-- Replacing the GitHub Streak section -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="160" align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=comus3&theme=radical_border=false" alt="GitHub Streak" />
+  </a>
 </p>
 
 <!-- Languages Used Section -->
