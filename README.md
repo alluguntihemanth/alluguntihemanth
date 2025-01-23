@@ -173,16 +173,21 @@
   .tool-item {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   .tool-item:hover {
-    transform: scale(1.1);
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: translateY(-10px); /* Move slightly up on hover */
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
   }
 
   .tool-icon {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
+    transition: transform 0.3s ease;
   }
 
   .tool-name {
@@ -191,11 +196,16 @@
     font-weight: bold;
   }
 
+  .tool-item:hover .tool-icon {
+    transform: scale(1.05); /* Slightly enlarge the icon */
+  }
+
   a {
     color: inherit;
     text-decoration: none;
   }
 </style>
+
 
 
 
