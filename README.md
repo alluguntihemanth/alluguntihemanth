@@ -4,9 +4,9 @@
 
 <!-- About Section -->
 <p align="center" style="color:#4682B4;">
-  🔭 Currently building <strong>Project Matthew</strong> – An AI-driven adaptive conversational agent.<br>
-  🌱 Exploring <strong>Quantum CNNs for Face Recognition</strong>.<br>
-  💬 Ask me about <strong>AI, Machine Learning, Web Development, Python</strong>.<br>
+  🌱 Currently learning <strong>LLMs, Computer Vision, Transformers, and Quantum CNNs</strong>.<br>
+  💬 Ask me about <strong>Python, Machine Learning, Deep Learning, Computer Vision, and NLP</strong>.<br>
+  🤝 I’m looking to collaborate on <strong>innovative projects, AI research, and hackathons</strong>.<br>
   📫 Contact me: <strong>hemanthallugunti@gmail.com</strong>
 </p>
 
@@ -55,6 +55,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alluguntihemanth&theme=radical&hide_border=false&show_icons=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alluguntihemanth&theme=radical&hide_border=false" alt="GitHub Streak" width="49%" />
+</p>
+
+<!-- Languages Used Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alluguntihemanth&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=6" alt="Languages Used" width="49%" />
 </p>
 
 ---
