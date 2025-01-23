@@ -55,6 +55,7 @@
 <!-- Stats Section -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alluguntihemanth&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
