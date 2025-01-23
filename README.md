@@ -27,7 +27,6 @@
 
 <!-- Languages and Tools Section -->
 <h3 align="left" style="color:#1E90FF;">🛠️ Languages and Tools:</h3>
-
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 30px; text-align: center;">
   <!-- Python -->
   <div style="transition: transform 0.3s ease; padding: 10px;">
@@ -136,7 +135,7 @@
   <!-- Visual Studio Code -->
   <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
       <p style="margin-top: 10px; font-size: 14px;">VS Code</p>
     </a>
   </div>
@@ -152,7 +151,7 @@
   <!-- Jupyter -->
   <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" height="60"/>
       <p style="margin-top: 10px; font-size: 14px;">Jupyter</p>
     </a>
   </div>
@@ -172,6 +171,7 @@
     cursor: pointer;
   }
 </style>
+
 
 
 ---
