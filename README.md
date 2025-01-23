@@ -1,8 +1,6 @@
 <!-- Header Section -->
-<h1 align="center" style="color:#1E90FF;">Hi 👋, I'm Hemanth Reddy Allugunti</h1>
-<h3 align="center" style="color:#ADD8E6;">
-  | Final Year BTech AI | AI Researcher | Machine Learning and Quantum Enthusiast
-</h3>
+<h1 align="center" style="color:#1E90FF;">Hi 👋, I'm Hemanth</h1>
+<h3 align="center" style="color:#ADD8E6;">Aspiring ML Engineer | Machine Learning and Quantum Computing Enthusiast</h3>
 
 <!-- About Section -->
 <p align="center" style="color:#4682B4;">
@@ -12,16 +10,23 @@
   📫 Reach me at <strong>hemanthallugunti@gmail.com</strong>
 </p>
 
+---
+
 <!-- Connect with Me Section -->
-<h3 align="left" style="color:#1E90FF;">Connect with me:</h3>
+<h3 align="left" style="color:#1E90FF;">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/hemanth-reddy-allugunti-883b36216/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
+  <a href="mailto:hemanthallugunti@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" height="30" />
+  </a>
 </p>
 
+---
+
 <!-- Languages and Tools Section -->
-<h3 align="left" style="color:#1E90FF;">Languages and Tools:</h3>
+<h3 align="left" style="color:#1E90FF;">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -52,27 +57,30 @@
   </a>
 </p>
 
-<!-- Stats Section -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alluguntihemanth&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+<!-- GitHub Stats Section -->
+<h3 align="left" style="color:#1E90FF;">📊 GitHub Stats:</h3>
 <p align="center">
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=alluguntihemanth&show_icons=true&locale=en&theme=blueberry&hide_border=true" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img height=165 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=alluguntihemanth&theme=blueberry&hide_border=false" alt="GitHub Streak"/>
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alluguntihemanth&theme=blueberry&show_icons=true&hide_border=true&layout=compact" />
-    </a>
-  </div>
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=alluguntihemanth&theme=radical&hide_border=false&show_icons=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alluguntihemanth&theme=radical&hide_border=false" alt="GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alluguntihemanth&theme=radical&hide_border=false&layout=compact&langs_count=6" alt="Top Languages" width="60%" />
 </p>
 
-<hr>
+---
 
+<!-- Activity Graph Section -->
+<h3 align="left" style="color:#1E90FF;">💻 GitHub Activity Graph:</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alluguntihemanth&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<!-- Profile Summary Card -->
+<h3 align="left" style="color:#1E90FF;">🔎 Profile Summary:</h3>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alluguntihemanth&theme=gotham" alt="Profile Summary Card" />
+</p>
