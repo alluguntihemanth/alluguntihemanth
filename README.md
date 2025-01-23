@@ -59,7 +59,7 @@
 
 <!-- Languages Used Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alluguntihemanth&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=6" alt="Languages Used" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alluguntihemanth&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=6" alt="Languages Used" width="45%" />
 </p>
 
 ---
