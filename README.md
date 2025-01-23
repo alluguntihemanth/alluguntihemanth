@@ -27,112 +27,151 @@
 
 <!-- Languages and Tools Section -->
 <h3 align="left" style="color:#1E90FF;">🛠️ Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
-  <div style="text-align: center;">
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 30px; text-align: center;">
+  <!-- Python -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-      <p style="margin-top: 10px;">Python</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">Python</p>
     </a>
   </div>
-  <div style="text-align: center;">
+  
+  <!-- TensorFlow -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
-      <p style="margin-top: 10px;">TensorFlow</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">TensorFlow</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- PyTorch -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
-      <p style="margin-top: 10px;">PyTorch</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">PyTorch</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- Keras -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"/>
-      <p style="margin-top: 10px;">Keras</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">Keras</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- scikit-learn -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50"/>
-      <p style="margin-top: 10px;">scikit-learn</p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">scikit-learn</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- NumPy -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-      <p style="margin-top: 10px;">NumPy</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">NumPy</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- Matplotlib -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
-      <p style="margin-top: 10px;">Matplotlib</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">Matplotlib</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- Pandas -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-      <p style="margin-top: 10px;">Pandas</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">Pandas</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- OpenCV -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
-      <p style="margin-top: 10px;">OpenCV</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">OpenCV</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- C -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-      <p style="margin-top: 10px;">C</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">C</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- C++ -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-      <p style="margin-top: 10px;">C++</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">C++</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- HTML5 -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-      <p style="margin-top: 10px;">HTML5</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">HTML5</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- Git -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-      <p style="margin-top: 10px;">Git</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">Git</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- Visual Studio Code -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50"/>
-      <p style="margin-top: 10px;">VS Code</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">VS Code</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- GitHub -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-      <p style="margin-top: 10px;">GitHub</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">GitHub</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- Jupyter -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="50" height="50"/>
-      <p style="margin-top: 10px;">Jupyter</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">Jupyter</p>
     </a>
   </div>
-  <div style="text-align: center;">
+
+  <!-- Linux -->
+  <div style="transition: transform 0.3s ease; padding: 10px;">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-      <p style="margin-top: 10px;">Linux</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+      <p style="margin-top: 10px; font-size: 14px;">Linux</p>
     </a>
   </div>
 </div>
 
-
+<style>
+  div:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+</style>
 
 
 ---
